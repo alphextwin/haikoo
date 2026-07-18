@@ -10,8 +10,6 @@ A Haiku OS–style window decoration plugin for KDE Plasma 6 with the help of Be
 ## Features
 
 - **Content-fit tab** — the yellow title bar tab grows/shrinks to fit its buttons and title text
-- **SVG-based graphics** — tab gradients and bevels rendered from the original Haiku OS decoration SVGs
-- **Pre-rendered button states** — close, minimize, maximize, and restore buttons with hover/pressed states for both active and inactive windows
 - **Transparent titlebar** — the area to the right of the tab is transparent! Exactly like HaikuOS.
 
 ## Dependencies
