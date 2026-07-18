@@ -1,6 +1,6 @@
 # Haikoo
 
-A Haiku OS–style window decoration plugin for KDE Plasma 6 with the help of Besot theme..
+A HaikuOS style window decoration plugin for KDE Plasma 6 with the help of Besot theme..
 
 ![Inspired by HaikuOS and Besot Haiku theme for the Plasma](https://www.opencode.net/phob1an/besot/)
 
