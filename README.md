@@ -4,8 +4,7 @@ A Haiku OS–style window decoration plugin for KDE Plasma 6 with the help of Be
 
 ![Inspired by HaikuOS and Besot Haiku theme for the Plasma](https://www.opencode.net/phob1an/besot/)
 
-<img width="1053" height="768" alt="preview" src="https://github.com/user-attachments/assets/11eac63e-e8e9-499b-a2ba-0bc63c01b4d5" />
-
+<img width="936" height="805" alt="demo" src="https://github.com/user-attachments/assets/78186e45-f884-4db3-8e75-c33f7d2f847f" />
 
 ## Features
 
